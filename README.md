@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/img/svg/logo-moire.svg" alt="логотип moire">
+</p>
+
 # Moire - интернет-магазин на Vue 3 + REST API
 
 ## Описание проекта
